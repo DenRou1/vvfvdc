@@ -1,7 +1,4 @@
 console.log("Hello!");
-import {i as n, r as b, s as m, _ as P, o as r, c, a as e, t as S, b as C, d as _, u, e as B, f as w, L as k, g as I} from "./index.14fe34fc.js";
-import {g as A} from "./getConfig.e2287c27.js";
-import {h as M} from "./hcaptcha-vue3.es.0da9f905.js";
 let p, y;
 function f() {
     p && (clearInterval(p),
